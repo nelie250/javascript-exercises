@@ -6,6 +6,8 @@ const convertToFahrenheit = function (celsius) {
   return Math.round(((celsius * 9) / 5 + 32) * 10) / 10;
 };
 
+console.log(fahrenheit(80));
+
 // Do not edit below this line
 module.exports = {
   convertToCelsius,

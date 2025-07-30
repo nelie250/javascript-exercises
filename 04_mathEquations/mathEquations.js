@@ -5,5 +5,7 @@ const d = 5%4
 const e = b - 17
 const f = a + b + c + d + e
 
+console.log(f);
+
 // Do not edit below this line
 module.exports = {a, b, c, d, e, f}

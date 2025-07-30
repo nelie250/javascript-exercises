@@ -6,6 +6,6 @@ arr.map((item,index)=>{
   
   return arr
 };
-console.log(removeFromArray([3,5,8,1],1));
+
 // Do not edit below this line
 module.exports = removeFromArray;

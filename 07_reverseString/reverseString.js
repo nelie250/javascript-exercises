@@ -5,5 +5,7 @@ const reverseString = function(word) {
 return reversedWord
 };
 
+console.log(reverseString('TheOrdin'))
+
 // Do not edit below this line
 module.exports = reverseString;

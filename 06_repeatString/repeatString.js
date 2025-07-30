@@ -12,5 +12,7 @@ const repeatString = function(string,num) {
 return word
 };
 
+console.log(repeatString('hello', 3))
+
 // Do not edit below this line
 module.exports = repeatString;

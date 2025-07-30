@@ -8,6 +8,7 @@ function addNumbers() {
 
   return result;
 }
+console.log(addNumbers())
 
 // Do not change this
 module.exports = addNumbers;

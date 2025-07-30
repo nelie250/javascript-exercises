@@ -6,5 +6,7 @@ function numberChecker(number) {
   }
 }
 
+console.log(numberChecker(-7))
+
 // Do not edit below this line
 module.exports = numberChecker;
